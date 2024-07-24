@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+}
+.microsoft {
+  width: 100%;
+  height: 80px;
+  margin: auto;
+  object-fit: cover;
+}
+.margin {
+  margin: auto;
+  width: fit-content;
+  display: block;
+}
+
+.box {
+  width: 100%;
+  height: 50px;
+  background-color: darkgreen;
+  text-align: left;
+}
+ul,
+li {
+  all: unset;
+  display: inline;
+  color: white;
+  font-size: 20px;
+}
+
+a {
+  all: unset;
+}
+.textbox {
+  color: white;
+  width: 40%;
+  height: fit-content;
+  word-spacing: 100px;
+  font-size: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.boxnear {
+  height: 50px;
+  width: 30%;
+  vertical-align: middle;
+  display: inline-block;
+}
+.box2 {
+  width: 100%;
+  height: 1000px;
+  background-color: rgb(223, 213, 213);
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}
+.dune {
+  width: 60%;
+  height: 600px;
+  margin: auto;
+  object-fit: cover;
+}
+.about {
+  width: 60%;
+  height: 60px;
+  background-color: darkgreen;
+  font-size: 50px;
+  color: white;
+  margin: auto;
+  text-align: left;
+}
+.abouttext {
+  padding-left: 20px;
+}
+.textin {
+  text-align: left;
+  width: 60%;
+  height: 40px;
+  color: black;
+  font-size: 20px;
+  margin: auto;
+}
+.contacts {
+  height: 300px;
+  width: 100%;
+  background-color: rgb(195, 229, 143);
+  margin: auto;
+}
+
+.cursorpointer {
+  cursor: pointer;
+}
+.middle {
+  font-size: 0;
+}
